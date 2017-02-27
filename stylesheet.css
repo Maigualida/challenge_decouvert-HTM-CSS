@@ -79,8 +79,8 @@ li{
 #left-box{
 	background-color: rgb(9,30,45);
 	width: 200px;
-	height: 650px;
-	margin-top: 20px;
+	/*height: 650px;
+*/	margin-top: 20px;
 	border: 1px solid black;
 	padding-left: 8px;
 	
@@ -89,7 +89,7 @@ li{
 #right-box{
 	background-color: rgb(9,30,45);
 	width: 400px;
-	height: 650px;
+	/*height: 650px;*/
 	margin-top: 20px;
 	border: 1px solid black;
 	display: flex;
@@ -101,7 +101,7 @@ li{
 #experinces-box{
 	background-color: #18547A;
 	width: 350px;
-	height: 250px;
+	/*height: 250px;*/
 	margin-top: 30px;
 	border: 1px solid black;
 	margin-left: auto;
@@ -110,7 +110,7 @@ li{
 #studies-box{
 	background-color: #18547A;
 	width: 350px;
-	height: 250px;
+	/*height: 250px;*/
 	margin-top: 30px;
 	border: 1px solid black;
 	margin-left: auto;
@@ -120,7 +120,7 @@ li{
 .experiences{
 	background-color: #023B5E;
 	width: 300px;
-	height: 150px;
+	/*height: 150px;*/
 	margin-top: 5px;
 	border: 1px solid black;
 	margin-left: auto;
@@ -132,7 +132,7 @@ li{
 .studies{
 	background-color: #023B5E;
 	width: 300px;
-	height: 150px;
+	/*height: 150px;*/
 	margin-top: 5px;
 	border: 1px solid black;
 	margin-left: auto;
