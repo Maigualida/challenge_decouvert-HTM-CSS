@@ -53,6 +53,11 @@ img{
 	margin-top: 20px;
 	margin-left: 10px;
 }
+li{
+	font-size: small;
+	color: white;
+	font-family: 'Josefin Sans', sans-serif;
+}
 
 .bold-text{
 	font-weight: bold;
